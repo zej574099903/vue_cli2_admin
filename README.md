@@ -1,6 +1,6 @@
 # vue-template__epc
 
-> vue项目模版（核心网）
+> vue项目模版
 
 ## Build Setup
 
